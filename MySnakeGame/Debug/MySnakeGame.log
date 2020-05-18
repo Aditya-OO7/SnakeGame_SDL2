@@ -1,0 +1,16 @@
+﻿  Game.cpp
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(78,25): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(86,27): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(165,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(168,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(171,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(174,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\Game.cpp(315,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameState.cpp
+  GameUI.cpp
+  Main.cpp
+  RenderGame.cpp
+  Generating Code...
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\GameUI.cpp(237): warning C4715: 'GameUI::SpeedOptions': not all control paths return a value
+D:\PROJECTS\VCProjects\MySnakeGame\MySnakeGame\GameUI.cpp(64): warning C4715: 'GameUI::StartUI': not all control paths return a value
+  MySnakeGame.vcxproj -> D:\PROJECTS\VCProjects\MySnakeGame\Debug\MySnakeGame.exe
